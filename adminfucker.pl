@@ -7,13 +7,17 @@ system('cls');
 system('title Admin Fucker ');
 system "color 0a";
 print"\n";
-print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
-print "\t>             Admin Fucker                      >\n";
-print "\t>           Created By MERGEN                   >\n";
-print "\t>       Visit my page on FACEBOOK               >\n";
-print "\t>     http://www.facebook.com/Kergiday          >\n";
-print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
+print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
+print "\t>                                             >\n";
+print "\t>        Admin Control Panel Scanner          >\n";
+print "\t>                                             >\n";
+print "\t>            Author: By Pr0ph3t               >\n";
+print "\t>                                             >\n";
+print "\t>         www.twitter.com/pr0ph3tr            >\n";
+print "\t>                                             >\n";
+print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
+
 
 print " Please Enter Site\n Example: www.victim.com or www.victim.com/path\n-> ";
 $site=<STDIN>;
